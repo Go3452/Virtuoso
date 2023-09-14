@@ -12,7 +12,15 @@
 
     text-transform: uppercase;
 }
-
+.WebContainer{
+    width: 100%;
+    height: auto;
+}
+.articles{
+    width:90%; /*Takes 90% width from WebContainer*/
+    height: auto;
+    margin: auto;
+}
 li a{
     color: rgb(12, 91, 130);
 }
